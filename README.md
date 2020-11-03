@@ -5,12 +5,12 @@ The lab installed and tested on Virtual-Box.
 
 ## Lab Contains
 
-1.Windows Server 2019
-2.ELK
-3.Windows 10
-4.Windows 10
-5.Ubuntu 18
-6.PFSense
+1. Windows Server 2019
+2. ELK
+3. Windows 10
+4. Windows 10
+5. Ubuntu 18
+6. PFSense
 
 
 
