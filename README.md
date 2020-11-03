@@ -13,6 +13,18 @@ The lab installed and tested on Virtual-Box.
 6. PFSense
 
 ### Main Topics
+* Network Scanning & Detection
+* Brute-Forcing & Detection
+* SQL Injection & Detection
+* OS Command Injection & Detection
+* Linux Enumeration & Detection
+* Privilege Esclation & Detection
+* MITM IPv6 Takedown & Detection
+* Active Directory Attacks And Defesne
+* Phishing Scenario And Defense techniques
+* Malware-Analysis
+
+
 
 
 
