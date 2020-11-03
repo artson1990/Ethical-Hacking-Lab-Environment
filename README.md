@@ -41,7 +41,7 @@ Before you look on creds the best way its try find the way to get all the creden
 
 ###### Links to download the lab
 
-* Part 1 - [GitHub](http://github.com)
+* Part 1 - [Mega](https://mega.nz/file/ANtQyTKQ#ldAi2YESjJqPSPEeTyACjWlcO0Gr3GPMAIj95R94JT4)
 
 
 
