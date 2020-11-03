@@ -43,6 +43,8 @@ Before you look on creds the best way its try find the way to get all the creden
 
 * Part 1 - [Mega](https://mega.nz/file/ANtQyTKQ#ldAi2YESjJqPSPEeTyACjWlcO0Gr3GPMAIj95R94JT4)
 
+* Part 2 - [Mega](https://mega.nz/file/mU8GRLaL#pAEZxizZIDqIAdkKLgm7gpB_hjRqqrOwuT8eqTZ04wk)
+
 
 
 
