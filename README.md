@@ -36,7 +36,7 @@ This lab very similar to CTF challenges so the best way its try to find your way
 
 * Malware-Analysis - My second report this time make phishing scenario showing all the process how its works and then move to malware-analysis about the scenario.
 
-* creds.txt - This file will include all the credentails for all the machines on the network.
+* Credentials.txt - This file will include all the credentails for all the machines on the network.
 Before you look on creds the best way its try find the way to get all the credentials without looking on this file this is the main challenge, if you stuck you always can check the file again. :)
 
 ###### Links to download the lab
