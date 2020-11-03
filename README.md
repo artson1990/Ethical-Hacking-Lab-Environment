@@ -27,7 +27,7 @@ The lab installed and tested on Virtual-Box.
 #### How Its Works
 This lab created for education purpose only.
 The best way for learning about this lab will be download all the machines and run them with Virtual-Box, bring your own attacker machine its can be kali or whatever attacker machine you want to use, connect your attacker machine to bridge and you good to go.
-The main goal its try hack as many machines as you can, this lab created by design vulnerable.
+The main goal its try hack as many machines as you can, the lab created by design vulnerable.
 This lab very similar to CTF challenges so the best way its try to find your way to own the network.
 
 ##### Files
